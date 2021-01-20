@@ -1,3 +1,0 @@
-Number     Surname    Course     Specialty            Physics    Math       Computer Science
-1          Студент1   2          Computer_Science     5          4          5         
-2          Студент2   2          Business_Analysis    5          3          4         
